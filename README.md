@@ -8,3 +8,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/obaedulislam/ 
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend 3hrs to watch video everyday.
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=obaedulislam&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=150340&bg_color=c2de10&font_style=bold">
